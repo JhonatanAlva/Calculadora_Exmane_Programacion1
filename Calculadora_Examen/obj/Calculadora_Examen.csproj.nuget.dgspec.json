@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Universidad\\Tercer Semestre\\Programación 1\\Segundo Examen Parcial\\CALCULADORA EXAMEN\\Calculadora_Examen\\Calculadora_Examen\\Calculadora_Examen.csproj": {}
+  },
+  "projects": {
+    "E:\\Universidad\\Tercer Semestre\\Programación 1\\Segundo Examen Parcial\\CALCULADORA EXAMEN\\Calculadora_Examen\\Calculadora_Examen\\Calculadora_Examen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Universidad\\Tercer Semestre\\Programación 1\\Segundo Examen Parcial\\CALCULADORA EXAMEN\\Calculadora_Examen\\Calculadora_Examen\\Calculadora_Examen.csproj",
+        "projectName": "Calculadora_Examen",
+        "projectPath": "E:\\Universidad\\Tercer Semestre\\Programación 1\\Segundo Examen Parcial\\CALCULADORA EXAMEN\\Calculadora_Examen\\Calculadora_Examen\\Calculadora_Examen.csproj",
+        "packagesPath": "C:\\Users\\GAMING GIGABYTE\\.nuget\\packages\\",
+        "outputPath": "E:\\Universidad\\Tercer Semestre\\Programación 1\\Segundo Examen Parcial\\CALCULADORA EXAMEN\\Calculadora_Examen\\Calculadora_Examen\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GAMING GIGABYTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
